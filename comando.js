@@ -98,5 +98,5 @@ let criaMosquito = setInterval(function(){
 }, 1500)
 
 function iniciarJogo(){
-	window.location.href = 'principal.html?'
+	window.location.href = 'principal.html'
 }
